@@ -17,8 +17,8 @@ This project requires `npm` to build and run.
 ## Running the project
 * Download the repo by opening the terminal and typing in 
 `
-Work in progress
-<!-- git clone https://github.com/Capt-Fluffy-Bug/React-Project-static.git -->
+
+git clone https://github.com/Capt-Fluffy-Bug/react-travel-journal.git
 `
 * Change your directory to this downloaded repo
 * Type in `npm install` followed by `npm start` to run the project on a locally hosted server.
