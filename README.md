@@ -17,7 +17,6 @@ This project requires `npm` to build and run.
 ## Running the project
 * Download the repo by opening the terminal and typing in 
 `
-
 git clone https://github.com/Capt-Fluffy-Bug/react-travel-journal.git
 `
 * Change your directory to this downloaded repo
@@ -26,4 +25,4 @@ git clone https://github.com/Capt-Fluffy-Bug/react-travel-journal.git
 
 ## Github Pages
 You can also see a running instance of this project by going to 
-`https://capt-fluffy-bug.github.io/react-travel-journal/` 
+https://capt-fluffy-bug.github.io/react-travel-journal/
