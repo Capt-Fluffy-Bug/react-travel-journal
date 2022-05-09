@@ -4,12 +4,10 @@ import Card from "./components/Card";
 import data from "./data"
 
 function App() {
-  console.log(<Navbar />)
   const info = data.map(item => {
     return (
-      <div className="main--cards">
+      <div className="main--cards" key={item.id}> 
         <Card 
-            key={item.id}
             item={item}
         />
         <hr />
@@ -25,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+/* Line 9: The unique key should be on the object that's being returned */
