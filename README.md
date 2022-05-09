@@ -24,6 +24,6 @@ git clone https://github.com/Capt-Fluffy-Bug/react-travel-journal.git
 * Type in `npm install` followed by `npm start` to run the project on a locally hosted server.
 
 
-<!-- ## Github Pages
+## Github Pages
 You can also see a running instance of this project by going to 
-` https://capt-fluffy-bug.github.io/React-Project-static/` -->
+`https://capt-fluffy-bug.github.io/react-travel-journal/` 
