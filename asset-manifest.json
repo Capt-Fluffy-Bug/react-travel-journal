@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Capt-Fluffy-Bug/react-travel-journal/static/css/main.d74b85f6.css",
-    "main.js": "/Capt-Fluffy-Bug/react-travel-journal/static/js/main.437ef966.js",
-    "static/js/787.08c4e5de.chunk.js": "/Capt-Fluffy-Bug/react-travel-journal/static/js/787.08c4e5de.chunk.js",
-    "index.html": "/Capt-Fluffy-Bug/react-travel-journal/index.html",
-    "main.d74b85f6.css.map": "/Capt-Fluffy-Bug/react-travel-journal/static/css/main.d74b85f6.css.map",
-    "main.437ef966.js.map": "/Capt-Fluffy-Bug/react-travel-journal/static/js/main.437ef966.js.map",
-    "787.08c4e5de.chunk.js.map": "/Capt-Fluffy-Bug/react-travel-journal/static/js/787.08c4e5de.chunk.js.map"
+    "main.css": "/react-travel-journal/static/css/main.d74b85f6.css",
+    "main.js": "/react-travel-journal/static/js/main.a4c37797.js",
+    "static/js/787.08c4e5de.chunk.js": "/react-travel-journal/static/js/787.08c4e5de.chunk.js",
+    "index.html": "/react-travel-journal/index.html",
+    "main.d74b85f6.css.map": "/react-travel-journal/static/css/main.d74b85f6.css.map",
+    "main.a4c37797.js.map": "/react-travel-journal/static/js/main.a4c37797.js.map",
+    "787.08c4e5de.chunk.js.map": "/react-travel-journal/static/js/787.08c4e5de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d74b85f6.css",
-    "static/js/main.437ef966.js"
+    "static/js/main.a4c37797.js"
   ]
 }
